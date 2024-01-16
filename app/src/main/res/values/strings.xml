@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="personal_photo_description">Drawing of Tai Porto</string>
+    <string name="phone_icon_description">Telefone</string>
+    <string name="social_media_description">Nome no Twitter</string>
+    <string name="email_icon_description">Endereço de email</string>
+</resources>
